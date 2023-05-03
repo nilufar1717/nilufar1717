@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 [![Watch the video](http://www.example.com/movie.ogg)](http://www.example.com/movie.ogg)
-![Game Process](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwaterfall-nature-green-birds-gif-15513798&psig=AOvVaw06NDn9kKV17bREn0u54obL&ust=1683178639090000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJix2pq32P4CFQAAAAAdAAAAABAJ)
+![Game Process](<div class="tenor-gif-embed" data-postid="15513798" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/waterfall-nature-green-birds-gif-15513798">Waterfall Nature GIF</a>from <a href="https://tenor.com/search/waterfall-gifs">Waterfall GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
